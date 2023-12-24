@@ -1,8 +1,13 @@
-    ##Margaret Mwauramargretmwaura81@gmail.com(+254)796919100Nairobi,Nairobi
+    ##MargaretMwaura
+    mwauramargret81@gmail.com
+    (+254)796919100
+    Nairobi,Nairobi
     
-    ##PERSONAL STATEMENTI am a computer information system student in Kenya Methodist University.I am strong in communicaation and have problem solving skills.I am aiming to grow my career with the skils gained
+    ##PERSONAL STATEMENT
+    I am a computer information system student in Kenya Methodist University.I am strong in communicaation and have problem solving skills.I am aiming to grow my career with the skils gained
     
-    ##EDUCATION**Bachelor of Science in Computer Information System Kenya Methodist System** | September 2021-Present
+    ##EDUCATION
+    **Bachelor of Science in Computer Information System Kenya Methodist System** | September 2021-Present
     
     ##PERSONAL PROJECTS
     
