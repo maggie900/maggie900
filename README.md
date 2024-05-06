@@ -11,14 +11,8 @@
     
     ##PERSONAL PROJECTS
     
-    **Simple Portfolio Project
-    **This is a simple project that contains details of myself.I used basic languages like javascript,css,html
     
-    **Simple Recipe Website
-    **This website is made up of favourite recipes
     
-    **Calculator
-    **THis is a calculator that can do simle mathematics like addition,subtraction,multiplication and division.The language is python.
     
     ##SKILLS
     -HTML/CSS/JavaScript
